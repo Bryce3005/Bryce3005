@@ -29,6 +29,7 @@
 [<img align="left" alt="Bryce Falker | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Bryce Falker | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+[Twitter]: https://x.com/BryceFalker3005
 [youtube]: https://www.youtube.com/@brycefalker3005
 [linkedin]: https://linkedin.com/in/bryce-falker
 
