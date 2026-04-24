@@ -10,16 +10,10 @@
 <h2>👨‍💻 Certifications:</h2>
 
 - <b>CompTIA A+</b>
-  - [A+]
-
 - <b>CompTia Network+</b>
-  - [Network+](https://github.com/Bryce3005/Splunk-Environment) <b><i></b></i>
-  
 - <b>CompTia Security+</b>
-  - [Security+](https://github.com/Bryce3005/Splunk-Environment) <b><i></b></i>
-  
 - <b>Security Blue Team Level 1</b>
- - [Blue Team Level 1](https://github.com/Bryce3005/Splunk-Environment) <b><i></b></i>
+
  
 <h2>📺 YouTube Videos</h2>
 
