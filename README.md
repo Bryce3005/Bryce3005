@@ -10,12 +10,17 @@
 <h2>👨‍💻 Certifications:</h2>
 
 - <b>CompTIA A+</b>
-  - [A+](file:///C:/Users/bryce/Downloads/CompTIA%20A+%20ce%20certificate.pdf)
-- <b>CompTia Network+</b>
-  - [Image Analysis Middleware](https://github.com/Bryce3005/Splunk-Environment) <b><i></b></i>
-- <b>CompTia Security+</b>
-- <b>Blue Team Level 1</b>
+  - [A+]
 
+- <b>CompTia Network+</b>
+  - [Network+](https://github.com/Bryce3005/Splunk-Environment) <b><i></b></i>
+  
+- <b>CompTia Security+</b>
+  - [Security+](https://github.com/Bryce3005/Splunk-Environment) <b><i></b></i>
+  
+- <b>Security Blue Team Level 1</b>
+ - [Blue Team Level 1](https://github.com/Bryce3005/Splunk-Environment) <b><i></b></i>
+ 
 <h2>📺 YouTube Videos</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
