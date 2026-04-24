@@ -1,11 +1,20 @@
-<h1>Hi, I'm Bryce Falker! <br/><a href="https://github.com/bryce3005">IT Support Specialist</a>, <a href="https://www.linkedin.com/in/bryce-falker/">Cybersecurity Analyst</a>, <a href="https://www.youtube.com/c/joshmadakor">Student</a></h1>
+<h1>Hi, I'm Bryce Falker! <br/><a href="https://github.com/bryce3005">IT Support Specialist</a>, <a href="https://www.linkedin.com/in/bryce-falker/">Cybersecurity Analyst</a>, <a href="https://www.youtube.com/@brycefalker3005">Student</a></h1>
 
 <h2>👨‍💻 IT and Cybersecurity Projects:</h2>
 
 - <b>IT Help Desk Lab</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [IT Helpdesk](https://github.com/Bryce3005/IT-Helpdesk-)
 - <b>SOC Environment Lab</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Image Analysis Middleware](https://github.com/Bryce3005/Splunk-Environment) <b><i></b></i>
+
+<h2>👨‍💻 Certifications:</h2>
+
+- <b>CompTIA A+</b>
+  - [A+](file:///C:/Users/bryce/Downloads/CompTIA%20A+%20ce%20certificate.pdf)
+- <b>CompTia Network+</b>
+  - [Image Analysis Middleware](https://github.com/Bryce3005/Splunk-Environment) <b><i></b></i>
+- <b>CompTia Security+</b>
+- <b>Blue Team Level 1</b>
 
 <h2>📺 YouTube Videos</h2>
 
@@ -17,13 +26,13 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Bryce Falker | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Bryce Falker | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Bryce Falker | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-[youtube]: https://www.youtube.com/c/joshmadakor
+
+[youtube]: https://www.youtube.com/@brycefalker3005
 [linkedin]: https://linkedin.com/in/bryce-falker
 
 <!--
