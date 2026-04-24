@@ -15,7 +15,7 @@
 - <b>Security Blue Team Level 1</b>
 
  
-<h2>📺 YouTube Videos</h2>
+<h2>📺 YouTube Playlist</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [A Day in the Life of a Cybersecurity Analyst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
