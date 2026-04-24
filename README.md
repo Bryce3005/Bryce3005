@@ -5,7 +5,7 @@
 - <b>IT Help Desk Lab</b>
   - [IT Helpdesk](https://github.com/Bryce3005/IT-Helpdesk-)
 - <b>SOC Environment Lab</b>
-  - [Image Analysis Middleware](https://github.com/Bryce3005/Splunk-Environment) <b><i></b></i>
+  - [Splunk Environment](https://github.com/Bryce3005/Splunk-Environment) <b><i></b></i>
 
 <h2>👨‍💻 Certifications:</h2>
 
